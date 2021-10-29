@@ -6,7 +6,7 @@ page: https://nicolas-johnson.github.io/
 
 ## Tech in use
 
-React aplication </br> with context Api </br> react-Roll </br>
+React aplication </br> with contextApi </br> ReactScroll </br>
 And JSON file populating the application
 
 ### Design by Styleshout
