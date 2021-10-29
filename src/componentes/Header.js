@@ -38,22 +38,22 @@ class Header extends React.Component {
 
           <ul id="nav" className="nav">
             <li>
-              <a className="current" href="#home" onClick={() => this.handleScroll(0)}>
+              <a href="#home" onClick={() => this.handleScroll(0)}>
                 Home
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#about" onClick={() => this.handleScroll(950)}>
+              <a href="#about" onClick={() => this.handleScroll(950)}>
                 About
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#resume" onClick={() => this.handleScroll(1495)}>
+              <a href="#resume" onClick={() => this.handleScroll(1670)}>
                 Resume
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#portfolio" onClick={() => this.handleScroll(8340)}>
+              <a href="#portfolio" onClick={() => this.handleScroll(8340)}>
                 Works
               </a>
             </li>

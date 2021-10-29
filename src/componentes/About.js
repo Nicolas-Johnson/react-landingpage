@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
 import dataContext from '../dataContext';
+import Scroll from 'react-scroll';
 
 class About extends Component {
   render() {
+    const Element  = Scroll.Element;
     const { main } = this.context;
     if(main){
       var name = main.name;
@@ -17,6 +19,7 @@ class About extends Component {
     }
 
     return (
+        <Element id="about">
         <section id="about">
         <div className="row">
             <div className="three columns">
@@ -49,6 +52,7 @@ class About extends Component {
             </div>
         </div>
         </section>
+        </Element>
     );
   }
 }

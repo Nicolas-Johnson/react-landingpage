@@ -6,7 +6,7 @@ page: https://nicolas-johnson.github.io/
 
 ## Tech in use
 
-React aplication, with context Api, react-Roll. 
+React aplication </br> with context Api </br> react-Roll </br>
 And JSON file populating the application
 
 ### Design by Styleshout
@@ -14,6 +14,6 @@ And JSON file populating the application
 http://www.styleshout.com/
 
 ### Social.
-Linkedin: https://www.linkedin.com/in/nicolas-johnson-279662210/
-GitHub: https://github.com/Nicolas-Johnson
+Linkedin: https://www.linkedin.com/in/nicolas-johnson-279662210/ </br>
+GitHub: https://github.com/Nicolas-Johnson </br>
 Twitter: https://twitter.com/Nicolas_Silva16

@@ -26,7 +26,7 @@ class Footer extends Component {
               {networks}
             </ul>
             <ul className="copyright">
-              <li>&copy; Copyright 2017 <a title={ name } href={ website }>{ name }</a></li>
+              <li>&copy; Copyright 2021 <a title={ name } href={ website }>{ name }</a></li>
               <li>Design by <a title="Styleshout" rel='noreferrer' target="_blank" href="http://www.styleshout.com/">Styleshout</a></li>
             </ul>
           </div>
