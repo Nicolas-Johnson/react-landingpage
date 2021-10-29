@@ -1,25 +1,36 @@
-import logo from './logo.svg';
+import React, { useEffect, useState } from 'react';
+import dataContext from './dataContext';
+
 import './App.css';
+import Header from './componentes/Header';
+import About from './componentes/About';
+import Resume from './componentes/Resume';
+import Portfolio from './componentes/Portfolio';
+import Footer from './componentes/Footer';
 
-function App() {
+export default function App() {
+  const [data, setData] = useState({});
+  function fetchResume(){
+    fetch("/resumeData.json")
+      .then((res) => res.json())
+      .then((data) => {
+        setData(data);
+      });
+  };
+  useEffect(() => {
+    fetchResume();
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+    <dataContext.Provider value={data}>
+      <div className="App">
+        <Header />
+        <About />
+        <Resume />
+        <Portfolio />
+        <Footer />
+      </div>
+    </dataContext.Provider>
 
-export default App;
+  );
+};
