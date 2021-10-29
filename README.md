@@ -4,6 +4,8 @@ Here you will find my Resume, some of my projects and my favorite technologies.
 
 page: https://nicolas-johnson.github.io/
 
+![plot](./public/images/landingpageSnap.jpg)
+
 ## Tech in use
 
 React aplication </br> with contextApi </br> ReactScroll </br>
