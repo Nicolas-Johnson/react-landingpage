@@ -2,7 +2,7 @@
 
 Here you will find my Resume, some of my projects and my favorite technologies.
 
-page: https://safe-cliffs-01394.herokuapp.com/
+[PAGE](https://safe-cliffs-01394.herokuapp.com/)
 
 ![plot](./public/images/landingpageSnap.jpg)
 
