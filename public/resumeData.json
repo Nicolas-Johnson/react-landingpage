@@ -6,7 +6,7 @@
     "image": "profilepic.jpg",
     "employer": "0021",
     "jobDescription": "0012",
-    "bio": "A Self-taught die-Hard Full Satck developer based in Brasil. Always seting the highest standards for code quality, with a sharp mind, my heart beat in code, i'm always hungry to learn more and ready for action.",
+    "bio": "A Self-taught die-Hard Full Stack developer based in Brazil. Always setting the highest standards for code quality, with a sharp mind, my heart beat in code, i'm always hungry to learn more and ready for action.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "nicolas-sousa2011@hotmail.com",
     "phone": "+55 85 98181-2951",
@@ -17,7 +17,7 @@
       "zip": "90721-190"
     },
     "website": "https://safe-cliffs-01394.herokuapp.com/",
-    "resumedownload": "https://safe-cliffs-01394.herokuapp.com/",
+    "resumedownload": "https://drive.google.com/drive/folders/1v9dekjg5W9huGIXeAJHZ2yS_cZcsM0gK?usp=sharing",
     "social": [
       {
         "name": "twitter",
@@ -43,11 +43,11 @@
         "school": "Trybe",
         "degree": "Full Stack Developer",
         "graduated": "July 2022",
-        "description": "Curriculum based on what the job market is looking for in technology professionals. With content blocks divided into Front-End, Back-End and Computer Science. A course that addresses in addition to several hard skills the most important soft skills such as learning to learn, communication, personal knowledge, team collaboration, proactivity and many more. Without a doubt one of the most interesting journeys I've ever had so far."
+        "description": "Curriculum based on what the job market is looking for in technology professionals. With content blocks divided into Front-End, Back-End and Computer Science. A course that addresses in addition to several hard skills the most important soft skills such as learning to learn, communication, personal knowledge, team collaboration, pro-activity and many more. Without a doubt one of the most interesting journeys I've ever had so far."
       },
       {
         "school": "Paulo VI",
-        "degree": "Technic on Computers Network",
+        "degree": "Technical Computers Network",
         "graduated": "March 2015",
         "description": "Technical level course in Computer Networks, with 3 years of duration. where I learned to design, implement, manage and integrate computer networks. I also learned how to create security solutions in these systems that are present all over the world and in all areas. With disciplines that study all environments related to networks: wireless, with cables, defined by software, IPV4 and IPV6. The security, routing and switching of these systems were also covered."
       }
@@ -58,7 +58,7 @@
         "company": "Previous work experiences",
         "title": "Tourism and Hotels as a Receptionist and Team Leader",
         "years": "January 2017 - December 2019",
-        "description": "My previous work experiences are somewhat irrelevant on this new journey of mine. However, I would like to highlight the teamwork and team leadership that I have acquired over the years working in the Tourism and Hotels area. Not to mention the goodvibes i bring and my easy going personality that I gained from years of experience working as a receptionist at a 5 star hotel in one of the most beautiful beaches in Brazil called Jericoacoara."
+        "description": "My previous work experiences are somewhat irrelevant on this new journey of mine. However, I would like to highlight the teamwork and team leadership that I have acquired over the years working in the Tourism and Hotels area. Not to mention the good-vibes i bring and my easy going personality that I gained from years of experience working as a receptionist at a 5 star hotel in one of the most beautiful beaches in Brazil called Jericoacoara."
       }
     ],
     "skills": [
@@ -89,12 +89,12 @@
       },
       {
         "name": "Redux",
-        "description": "When it comes to state management Redux is the most used tool in several frameworks so I couldn't leave Redux out of my toolbox.",
+        "description": "When it comes to state management Redux is the most used tool in several frameworks so I could not leave Redux out of my toolbox.",
         "image": "redux.jpg"
       }, 
       {
         "name": "Git",
-        "description": "When it comes to versioning and collaborative working, Git couldn't be left out along with my favorite social media ... GitHub",
+        "description": "When it comes to versioning and collaborative working, Git could not be left out along with my favorite social media ... GitHub.",
         "image": "git.jpg"
       }
     ]
